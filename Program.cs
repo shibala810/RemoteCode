@@ -9,7 +9,6 @@ namespace ConsoleApplication2
     {
         static void Main(string[] args)
         {
-            //123/3213213123
         }
     }
 }
